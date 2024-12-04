@@ -1,4 +1,4 @@
-# TecnoCasa Price Analyzer
+# Analizador de precios
 
 Este proyecto es una herramienta en Python diseñada para extraer datos de inmuebles desde la página web de Tecnocasa, calcular el precio promedio por metro cuadrado de cada barrio, y comparar los precios de los pisos encontrados con ese promedio, ordenándolos según su relación calidad-precio.
 
@@ -22,6 +22,7 @@ Puedes instalar las dependencias ejecutando:
 
 ```bash
 pip install requests beautifulsoup4 lxml
+```
 
 ## Uso
 
